@@ -37,7 +37,6 @@ Our approach involves building a basic ETL (Extract, Transform, Load) pipeline f
 
 By the end of this project, we aim to deliver an efficient and reliable system for classifying disaster-related messages, thereby aiding in effective disaster response efforts.
 
-![Screenshot of Web App](WebApp.PNG)
 
 ## File Description
 ~~~~~~~
